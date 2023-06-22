@@ -2,11 +2,11 @@
 Collection of personal certifications and achievements
 
 ## List
-- MasterZ Blockchain & Digital Assets
-- Introduction to Blockchain Programming
+- [MasterZ Blockchain & Digital Assets](Cert - NICOLA BERNARDI.pdf)
+- [Introduction to Blockchain Programming](certificate_nicola_bernardi.jpg)
 - Cisco CCNA1
 - Cisco IT Essentials
-- Google Project Management
+- [Google Project Management](Coursera 6KGUCMLXQ5KK.pdf)
 
 ---
 
