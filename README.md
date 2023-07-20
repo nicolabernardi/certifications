@@ -7,6 +7,7 @@ Collection of personal certifications and achievements
 - Cisco CCNA1
 - Cisco IT Essentials
 - [Google Project Management](Coursera%206KGUCMLXQ5KK.pdf)
+- [CAPM: Certified Associate in Project Management, by PMI (Project Management Institute)](PMI%20Certification.pdf)
 
 ---
 
